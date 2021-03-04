@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(241, 88, 118);
+    }
+
+.Header{
+    background-color:rgb(67, 224, 224);
+    display: flex;
+    justify-content: center;
+}
+.links{
+    background-color: rgb(60, 199, 199);
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.intro{
+    background-color:rgb(216, 98, 98);
+    text-align: center;
+    color:rgb(251, 241, 241);
+}
+
+.Games{
+    background-color: bisque;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    background-color:rgb(14, 117, 109);
+    text-align: center;
+    color:lightpink;
+}
+
+.footer{
+    background-color: rgb(221, 175, 157);
+    display:flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
